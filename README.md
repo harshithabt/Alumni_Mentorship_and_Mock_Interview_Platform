@@ -1,4 +1,4 @@
-### Alumni Mentorship & Mock Interview Platform
+# Alumni Mentorship & Mock Interview Platform
 
 A Software Engineering Lab project for designing an Alumni Mentorship & Mock Interview Platform that connects students with alumni mentors for mentorship and mock interview sessions.
 
