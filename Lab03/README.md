@@ -22,7 +22,7 @@ This lab focuses on selecting a suitable architectural style and developing a UM
 
 ### Architecture
 
-The system uses a **Layered Architecture** consisting of:
+The system uses a "**Layered Architecture**" consisting of:
 
 - **Presentation Layer** – User Interface
 - **Business Layer** – Mentor Matching, Availability & Booking, Interview Assessment, Experience Sharing
