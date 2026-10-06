@@ -32,13 +32,13 @@ The platform is designed to support the student–mentor workflow, from finding 
 Alumni_Mentorship_and_Mock_Interview_Platform/
 │
 ├── Lab01/
-│   └── Requirements Engineering
+│   └── Requirements Engineering (.pdf)
 │
 ├── Lab02/
-│   └── Agile Backlog & Sprint Simulation
+│   └── Agile Backlog & Sprint Simulation (.pdf)
 │
 ├── Lab03/
-│   └── Component Modelling & Architecture
+│   └── Component Modelling & Architecture (.pdf & .png)
 │
 └── README.md
 ```
