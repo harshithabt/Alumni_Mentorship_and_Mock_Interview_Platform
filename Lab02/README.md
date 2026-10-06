@@ -2,7 +2,7 @@
 
 ---
 
-## ASSIGNED PROBLEM STATEMENT #06 | Campus & Academic Operations 
+## PROBLEM STATEMENT #06 
 
 ## Alumni Mentorship & Mock Interview Platform
 
